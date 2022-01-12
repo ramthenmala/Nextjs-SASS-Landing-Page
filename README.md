@@ -1,5 +1,5 @@
 # SASS Landing Page built with NextJS and Theme UI
-The single page Website built with NextJS and Theme UI.
+The single page Website built with [NextJS](https://nextjs.org/) and [Theme UI](https://theme-ui.com/).
 
 ## Features
 
