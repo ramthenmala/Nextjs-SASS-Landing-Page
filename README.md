@@ -22,4 +22,5 @@ Choose one of the following options to get started:
 
 Clone the source files of the theme and navigate into the theme's root directory. Run ```npm install``` or ```npm i``` and then run ```npm run dev``` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the package.json file to see which scripts are included.
 
- 
+## Copyright and License
+Code released under the MIT license.
