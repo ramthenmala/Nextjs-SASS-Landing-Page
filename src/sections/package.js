@@ -294,16 +294,16 @@ export default function Package() {
             <button
               className={state.active === "monthly" ? "active" : ""}
               type="button"
-              aria-label="monthly"
-              onClick={() => handlePricingPlan(monthly)}
+              aria-label="Monthly"
+              onClick={() => handlePricingPlan("monthly")}
             >
               Monthly Plan
             </button>
             <button
               className={state.active === "annual" ? "active" : ""}
               type="button"
-              aria-label="monthly"
-              onClick={() => handlePricingPlan(annual)}
+              aria-label="Annual"
+              onClick={() => handlePricingPlan("annual")}
             >
               Annual Plan
             </button>
