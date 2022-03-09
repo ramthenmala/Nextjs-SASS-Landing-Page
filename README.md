@@ -1,9 +1,6 @@
 # SASS Landing Page built with NextJS and Theme UI
 The single page Website built with [NextJS](https://nextjs.org/) and [Theme UI](https://theme-ui.com/).
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ramthenmala)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ## Features
 
 - Responsive to Tablet, Mobile and Laptop
